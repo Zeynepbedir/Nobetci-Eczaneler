@@ -1,4 +1,4 @@
-# **Nöbetçi Eczaneler Uygulaması**
+# **Nöbetçi Eczane Bulma Uygulaması**
 Bu uygulama, Flutter ile geliştirilmiş bir mobil uygulamadır. Kullanıcıların il ve ilçe bilgilerini seçerek, nöbetçi eczaneleri bulmalarını sağlar. CollectAPI üzerinden eczane bilgileri alınmaktadır.
 
 ## **Özellikler**
